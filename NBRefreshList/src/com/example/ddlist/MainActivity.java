@@ -26,7 +26,7 @@ import com.lidroid.xutils.http.client.HttpRequest;
 
 public class MainActivity extends Activity {
 	
-	String url = "http://123.57.86.100/XMQQMobile/service";
+	String url = "http://12.7.8.1/XMQQMobile/service";
 	PullToRefreshListView list;
 	Button btn;
 
